@@ -1,5 +1,5 @@
 var os = require('os');
-var OSinfo = require('OSInfo.js');
+var OSinfo = require('./OSinfo.js');
 
 
 function format(seconds){
